@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 📊 &nbsp;**Github Stats**
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohdsaifulm&show_icons=true&theme=city_lights">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsaifulm&layout=compact&theme=city_lights">
