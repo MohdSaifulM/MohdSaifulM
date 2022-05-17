@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning how to be a better developer 🙂
-- 💬 &nbsp;I'll probably need help with Javascript or Angular/React/Express
 - ⚡ &nbsp;Fun fact: I am most efficient at 3am 🥴
 
 🔗 &nbsp;**Connect with me**
