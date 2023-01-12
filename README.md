@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mohammad-saiful-bin-mohammad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-saiful-bin-mohammad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_saifxo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saifxo_" height="30" width="40" /></a>
 
-📊 &nbsp;**Github Stats**
+<!-- 📊 &nbsp;**Github Stats**
 
 <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=mohdsaifulm&show_icons=true&theme=city_lights">
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsaifulm&layout=compact&theme=city_lights">
+<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsaifulm&layout=compact&theme=city_lights"> -->
