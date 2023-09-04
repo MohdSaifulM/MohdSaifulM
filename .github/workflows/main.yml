@@ -1,8 +1,8 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
+  # schedule:
+  #   - cron: '0 0 * * 0'
   workflow_dispatch:
 
 jobs:
@@ -10,12 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk@v3
         with:
-          github_user_name: MohdSaifulM
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: git status
       - name: Push changes
         uses: ad-m/github-push-action@master
