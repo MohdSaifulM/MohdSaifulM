@@ -29,7 +29,20 @@ Here are some ideas to get you started:
 <div>
   <img align="center" height="150" src="https://github-readme-stats-rho-opal.vercel.app/api?username=mohdsaifulm&show_icons=true&theme=city_lights">
   <img align="center" height="150" src="https://github-readme-stats-rho-opal.vercel.app/api/top-langs/?username=mohdsaifulm&layout=compact&langs_count=16&theme=city_lights">
-  <img src="https://github.com/MohdSaifulM/MohdSaifulM/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <picture align="center">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/MohdSaifulM/MohdSaifulM/blob/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.com/MohdSaifulM/MohdSaifulM/blob/output/github-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://github.com/MohdSaifulM/MohdSaifulM/blob/output/github-snake-dark.svg"
+    />
+  </picture>
 </div>
 <br>
 <p align="left">
